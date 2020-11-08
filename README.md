@@ -8,9 +8,26 @@
 ![](http://antzuhl.cn:4000/get/@kimidaisuki22)
 ![](https://visitor-badge.glitch.me/badge?page_id=kimidaisuki22)
 
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimidaisuki22hide_title=true&hide_border=true&langs_count=5)
+<!DOCTYPE html>
+<html>
+  <body>
+    <textarea id="text-input" oninput="this.editor.update()"
+              rows="6" cols="60">Type **Markdown** here.</textarea>
+    <div id="preview"> </div>
+    <script src="lib/markdown.js"></script>
+    <script>
+      function Editor(input, preview) {
+        this.update = function () {
+          preview.innerHTML = markdown.toHTML(input.value);
+        };
+        input.editor = this;
+        this.update();
+      }
+      var $ = function (id) { return document.getElementById(id); };
+      new Editor($("text-input"), $("preview"));
+    </script>
+  </body>
+</html>
 
 ![info](https://github-readme-stats.vercel.app/api?username=kimidaisuki22&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 <!--
