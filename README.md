@@ -2,8 +2,10 @@
 
  <!-- waka-box start -->
  <!-- waka-box end -->
-
+![](http://antzuhl.cn:4000/get/@kimidaisuki22)
 ![](https://visitor-badge.glitch.me/badge?page_id=kimidaisuki22)
+
+![info](https://github-readme-stats.vercel.app/api?username=kimidaisuki22&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 <!--
 **kimidaisuki22/kimidaisuki22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
