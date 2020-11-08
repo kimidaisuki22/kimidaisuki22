@@ -3,7 +3,7 @@
  <!-- waka-box start -->
  <!-- waka-box end -->
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=kimidaisuki22)
 <!--
 **kimidaisuki22/kimidaisuki22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
