@@ -3,8 +3,14 @@
  <!-- waka-box start -->
 "https://gist.github.com/kimidaisuki22/8c4fbf3f301b71e7882844f9a8e6e2ef.js"
  <!-- waka-box end -->
+ <script src="https://gist.github.com/kimidaisuki22/8c4fbf3f301b71e7882844f9a8e6e2ef.js"></script>
+ 
 ![](http://antzuhl.cn:4000/get/@kimidaisuki22)
 ![](https://visitor-badge.glitch.me/badge?page_id=kimidaisuki22)
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kimidaisuki22hide_title=true&hide_border=true&langs_count=5)
 
 ![info](https://github-readme-stats.vercel.app/api?username=kimidaisuki22&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 <!--
