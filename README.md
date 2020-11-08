@@ -1,11 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-</head>
-<body>
-    <h1>我的第一个标题</h1>
-    <script src="https://gist.github.com/kimidaisuki22/8c4fbf3f301b71e7882844f9a8e6e2ef.js"></script>
-    <p>我的第一个段落。</p>
-</body>
-</html>
+
+
+### Hi there 👋
+
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on [KLOOK](https://www.klook.com)
+- 🌱 I’m currently learning Kubernetes and Istio
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
