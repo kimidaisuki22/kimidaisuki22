@@ -1,8 +1,10 @@
 ### Hi there 👋
 
  <!-- waka-box start -->
-#### <a href="https://gist.github.com/kimidaisuki22/8c4fbf3f301b71e7882844f9a8e6e2ef" target="_blank"
- <!-- waka-box end -->
+```html
+<script src="https://gist.github.com/kimidaisuki22/8c4fbf3f301b71e7882844f9a8e6e2ef.js"></script>
+``` 
+<!-- waka-box end -->
  <script src="https://gist.github.com/kimidaisuki22/8c4fbf3f301b71e7882844f9a8e6e2ef.js"></script>
  
 ![](http://antzuhl.cn:4000/get/@kimidaisuki22)
