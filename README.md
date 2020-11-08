@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  <!-- waka-box start -->
- <script src="https://gist.github.com/kimidaisuki22/8c4fbf3f301b71e7882844f9a8e6e2ef.js"></script>
+"https://gist.github.com/kimidaisuki22/8c4fbf3f301b71e7882844f9a8e6e2ef.js"
  <!-- waka-box end -->
 ![](http://antzuhl.cn:4000/get/@kimidaisuki22)
 ![](https://visitor-badge.glitch.me/badge?page_id=kimidaisuki22)
