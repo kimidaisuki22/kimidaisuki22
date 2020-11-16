@@ -17,7 +17,7 @@
 🎮 Terraria                         🕘 33 hrs 54 mins
 🎮 Dead Cells                       🕘 32 hrs 52 mins
 🎮 Monster Hunter: World            🕘 30 hrs 59 mins
-🎮 Danganronpa V3: Killing Harmony  🕘 27 hrs 1 mins
+🎮 Apex Legends                     🕘 28 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
