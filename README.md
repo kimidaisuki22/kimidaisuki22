@@ -13,7 +13,7 @@
   <!-- steam-box start -->
 #### <a href="https://gist.github.com/77fa3085d67eaf784a5d7bc166e19a12" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 343 hrs 33 mins
+🎮 Apex Legends                     🕘 344 hrs 37 mins
 💻 Wallpaper Engine                 🕘 40 hrs 34 mins
 🎮 Dead Cells                       🕘 37 hrs 38 mins
 🎮 Terraria                         🕘 33 hrs 54 mins
